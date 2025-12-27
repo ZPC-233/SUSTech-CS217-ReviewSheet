@@ -2,6 +2,7 @@
 This is the simplified version of course slides of CS217 - DSAA(H) (16 A4 pages), including fundamental concepts, the contents of algorithms and data structures, which may be more convenient to review for the final exam. 
 
 Instructor: Pietro Simone Oliveto
+
 Semester: 2025 Fall
 
 - Lecture $1 \sim 7$: Sorting algorithms
